@@ -1,2 +1,2 @@
 # full-speed-Jackal
-ShanghaiTech University CS231 Robotics Course Fall 2017 Project
+ShanghaiTech University CS283 Robotics Course Fall 2017 Project
